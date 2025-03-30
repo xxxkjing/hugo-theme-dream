@@ -1,11 +1,11 @@
 ---
-title: hello
+title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 lastmod: {{ .Date }}
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-# cover: /img/cover.jpg
+cover: /img/cover.jpg
 # images:
 #   - /img/cover.jpg
 categories:
@@ -16,7 +16,9 @@ tags:
 # nolastmod: true
 draft: true
 ---
- 
+# test title
+
+
 Cut out summary from your post content here.
  
 <!--more-->
