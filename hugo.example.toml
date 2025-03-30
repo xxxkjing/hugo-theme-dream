@@ -1,7 +1,7 @@
 baseurl = "https://example.com"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "Hugo Theme Dream"
+title = "Hello"
 theme = "dream"
 
 # [services]
