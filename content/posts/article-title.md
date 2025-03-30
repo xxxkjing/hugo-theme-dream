@@ -1,11 +1,11 @@
 ---
-title: {{ replace .TranslationBaseName "-" " " | title }}
-date: {{ .Date }}
-lastmod: {{ .Date }}
+title: "Hello"
+date: 202405
+lastmod: 202405
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+cover: /images/tn.png
 # images:
 #   - /img/cover.jpg
 categories:
